@@ -38,12 +38,10 @@ dt
 ![Screenshot 2024-03-13 170528](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/25986eb4-415a-4a4d-b620-b9ffde0d9f3a)
 ![Screenshot 2024-03-13 170540](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/f380b495-ad5c-4602-ac34-bd912bb249f8)
 ![Screenshot 2024-03-13 170540](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/f380b495-ad5c-4602-ac34-bd912bb249f8)
-
 ![Screenshot 2024-03-13 170602](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/303b7836-4abb-4967-a4a8-cec72ddd2fb6)
 ![Screenshot 2024-03-13 170602](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/9925f321-88dd-4c57-b194-bf9b9031251c)
 ![Screenshot 2024-03-13 170639](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/bd66d412-cd20-4de7-a63a-5111f0f06bb9)
 ![Screenshot 2024-03-13 170639](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/bd66d412-cd20-4de7-a63a-5111f0f06bb9)
-
 ![Screenshot 2024-03-13 170655](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/f1cf0adc-da15-49de-8417-7551ea2567c0)
 ![Screenshot 2024-03-13 170703](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/c1d63572-578c-4cd2-9b4c-c7f1266d990e)
 ![Screenshot 2024-03-13 170655](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/5e3b16c3-3142-4ddc-bba9-e3610429ff9c)
