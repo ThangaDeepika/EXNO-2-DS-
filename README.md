@@ -39,35 +39,18 @@ dt
 ![Screenshot 2024-03-13 170540](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/f380b495-ad5c-4602-ac34-bd912bb249f8)
 ![Screenshot 2024-03-13 170540](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/f380b495-ad5c-4602-ac34-bd912bb249f8)
 ![Screenshot 2024-03-13 170602](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/303b7836-4abb-4967-a4a8-cec72ddd2fb6)
-![Uploading Screenshot 2024-03-13 170602.png…]()
+![Screenshot 2024-03-13 170602](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/9925f321-88dd-4c57-b194-bf9b9031251c)
 ![Screenshot 2024-03-13 170639](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/bd66d412-cd20-4de7-a63a-5111f0f06bb9)
 ![Screenshot 2024-03-13 170639](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/bd66d412-cd20-4de7-a63a-5111f0f06bb9)
 ![Screenshot 2024-03-13 170655](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/f1cf0adc-da15-49de-8417-7551ea2567c0)
 ![Screenshot 2024-03-13 170703](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/c1d63572-578c-4cd2-9b4c-c7f1266d990e)
-![Uploading Screenshot 2024-03-13 170703.png…]()
+![Screenshot 2024-03-13 170655](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/5e3b16c3-3142-4ddc-bba9-e3610429ff9c)
 ![Screenshot 2024-03-13 170733](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/bfb40d89-de55-4d8d-aad5-191538e065eb)
 ![Screenshot 2024-03-13 170842](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/127fb422-596c-4021-9471-475f4ead16dc)
 ```
 sns.pairplot(dt)
 ```
-![image](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/3bedddbf-2436-4e59-a0cd-9e12dde862f4)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![2-17](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/e4d5f598-f11d-450c-9bd1-2556415ad53c)
 
 # RESULT
         Exploratory Data Analysis on the given data set was created and executed successfully.
