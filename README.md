@@ -30,6 +30,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 dt=pd.read_csv("/content/titanic_dataset.csv")
 dt
+```
 ![](2-1.png)
 ![2-1](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/a4f40442-7427-4732-8c78-300edc978eef)
 ![2-1](https://github.com/ThangaDeepika/EXNO-2-DS-/assets/125663099/d29274b6-b4d9-40d2-8533-35d910615f5c)
@@ -37,7 +38,6 @@ dt
 
 
 
-```
 
 
 
